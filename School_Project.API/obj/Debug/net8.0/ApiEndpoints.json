@@ -1,0 +1,60 @@
+[
+  {
+    "ContainingType": "School_project.API.Controllers.StudentController",
+    "Method": "GetStudentById",
+    "RelativePath": "Student/{Id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "School_project.API.Controllers.StudentController",
+    "Method": "GetStudentByName",
+    "RelativePath": "Student/{Name}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Name",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "School_project.API.Controllers.StudentController",
+    "Method": "Create",
+    "RelativePath": "Student/Add",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "addStudentModel",
+        "Type": "School_project.Core.Feature.Students.Commend.Models.AddStudentModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "School_project.API.Controllers.StudentController",
+    "Method": "GetStudentList",
+    "RelativePath": "Student/GetList",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
