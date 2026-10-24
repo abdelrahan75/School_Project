@@ -1,0 +1,15 @@
+C:\Users\bdalr\الرواد\School_project\School_project.Domain\bin\Debug\net8.0\School_project.Domain.deps.json
+C:\Users\bdalr\الرواد\School_project\School_project.Domain\bin\Debug\net8.0\School_project.Domain.runtimeconfig.json
+C:\Users\bdalr\الرواد\School_project\School_project.Domain\bin\Debug\net8.0\School_project.Domain.dll
+C:\Users\bdalr\الرواد\School_project\School_project.Domain\bin\Debug\net8.0\School_project.Domain.pdb
+C:\Users\bdalr\الرواد\School_project\School_project.Domain\obj\Debug\net8.0\School_project.Domain.csproj.AssemblyReference.cache
+C:\Users\bdalr\الرواد\School_project\School_project.Domain\obj\Debug\net8.0\School_project.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bdalr\الرواد\School_project\School_project.Domain\obj\Debug\net8.0\School_project.Domain.AssemblyInfoInputs.cache
+C:\Users\bdalr\الرواد\School_project\School_project.Domain\obj\Debug\net8.0\School_project.Domain.AssemblyInfo.cs
+C:\Users\bdalr\الرواد\School_project\School_project.Domain\obj\Debug\net8.0\School_project.Domain.csproj.CoreCompileInputs.cache
+C:\Users\bdalr\الرواد\School_project\School_project.Domain\obj\Debug\net8.0\School_project.Domain.sourcelink.json
+C:\Users\bdalr\الرواد\School_project\School_project.Domain\obj\Debug\net8.0\School_project.Domain.dll
+C:\Users\bdalr\الرواد\School_project\School_project.Domain\obj\Debug\net8.0\refint\School_project.Domain.dll
+C:\Users\bdalr\الرواد\School_project\School_project.Domain\obj\Debug\net8.0\School_project.Domain.pdb
+C:\Users\bdalr\الرواد\School_project\School_project.Domain\obj\Debug\net8.0\School_project.Domain.genruntimeconfig.cache
+C:\Users\bdalr\الرواد\School_project\School_project.Domain\obj\Debug\net8.0\ref\School_project.Domain.dll
